@@ -6,6 +6,7 @@ export default function Page() {
         <heading>CPRG 306: Web Development 2 - Assignments</heading>
         <p>Click on the link to go to <Link href="/week-2">week-2 page</Link>.</p>
         <p>Click on the link to go to <Link href="/week-3">week-3 page</Link>.</p>
+        <p>Click on the link to go to <Link href="/week-4">week-4 page</Link>.</p>
       </div>
     );
 
