@@ -12,6 +12,7 @@ export default function Page() {
         <p>Click on the link to go to <Link href="/week-7">week-7 page</Link>.</p>
         <p>Click on the link to go to <Link href="/week-8">week-8 page</Link>.</p>
         <p>Click on the link to go to <Link href="/week-9">week-9 page</Link>.</p>
+        <p>Click on the link to go to <Link href="/week-10">week-10 page</Link>.</p>
       </div>
     );
 
